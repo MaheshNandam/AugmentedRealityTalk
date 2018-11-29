@@ -23,7 +23,7 @@ Refer - https://docs.viromedia.com/docs/quick-start
 
 ## Authors
 
-* **Mahesh Nandam** - *Initial work* - [PurpleBooth](https://github.com/MaheshNandam)
+* **Mahesh Nandam** - *Initial work* - [GitHub](https://github.com/MaheshNandam)
 
 ## License
 
