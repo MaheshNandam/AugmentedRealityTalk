@@ -31,4 +31,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Viro-react, ReactJs Bangalore - Inspiration
+* Viro-react, React Native, ReactJs Bangalore - Inspiration
